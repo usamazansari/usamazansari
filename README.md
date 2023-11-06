@@ -9,7 +9,9 @@ Welcome to the world where coding magic happens, bugs turn into features, and al
 ## About Me
 
 🌟 I'm a **Frontend Developer** who can make pixels dance to my code tunes.
+
 🚀 I've conquered the front-end world with my spells, including **Angular**, **React**, and **Astro**.
+
 🧙‍♂️ I've dabbled in the mystical arts of **NestJS**, **ExpressJS**, and even a bit of **Python** for backend sorcery.
 
 ## Skills
