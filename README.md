@@ -23,7 +23,7 @@ Web dev with focus on full stack apps. Your proect works best with me with the b
 
 ## 🤝 Connect
 
-* **Email:** [mailto:usamazansari@outlook.com]
+* **Email:** [usamazansari@outlook.com](mailto:usamazansari@outlook.com)
 * **LinkedIn:** [Usama Ansari](https://linkedin.com/in/usama-a-81380080)
 
-If my work aligns with your goals, please connect! Star my repositories to follow my active development.
+If my work aligns with your goals, please connect!
