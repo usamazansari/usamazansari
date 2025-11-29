@@ -1,4 +1,4 @@
-# [Usama Ansari]
+# `[Usama Ansari]`
 
 The following section only contains the information you need 👇
 
@@ -10,7 +10,7 @@ The following section only contains the information you need 👇
 ## 💡 Technical Expertise
 Web dev with focus on full stack apps. Your proect works best with me with the below tech stack:
 
-- React / NextJS
+- React / NextJS / RTK / Angular + RxJS
 - FastAPI
 - OpenAI
 - Docker
